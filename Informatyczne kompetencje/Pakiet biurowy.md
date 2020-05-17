@@ -2,7 +2,10 @@ Folder konfiguracji osobistej LibreOffice ([źródło](https://web.archive.org/w
 - Linux: /opt/libreoffice/share
 - Windows: \Program files\libreoffice\share
 
+Skróty:
+
 o = oryginał
+
 IA = Internet Archive
 
 Funkcja|Calc|Office|Uwagi
