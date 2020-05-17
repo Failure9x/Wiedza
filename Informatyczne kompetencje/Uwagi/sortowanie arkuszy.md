@@ -1,6 +1,6 @@
 ### Calc
-- sortuje alfabetycznie, nie w porządku naturalnym, czyli w kolejności:
-0,01,1,txt2,txt20,txt21,txt3
+- sortuje alfabetycznie, nie w porządku naturalnym - otrzymuje się kolejność np.:
+0,01,1,a,c,txt2,txt20,txt21,txt3,ą,ć
 
 U mnie jest:
 
